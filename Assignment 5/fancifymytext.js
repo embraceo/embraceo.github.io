@@ -1,6 +1,8 @@
 function biggerText() {
 	
     document.getElementById("textInput").style.fontSize = "24pt";
+	
+	alert("The text is bigger now.");
 }
 
 function changeStyle() {
